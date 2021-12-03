@@ -133,7 +133,7 @@ export const PLUGIN_NETWORKS: Web3Plugin.NetworkDescriptor[] = [
         chainId: ChainId.Fantom,
         type: NetworkType.Fantom,
         name: 'Fantom',
-        icon: new URL('./assets/fantom.svg', import.meta.url),
+        icon: new URL('./assets/fantom.png', import.meta.url),
         iconColor: 'rgb(73, 169, 166)',
         isMainnet: true,
     },
